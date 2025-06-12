@@ -1,1 +1,1 @@
-ok
+Hello world! I'm using Git!
